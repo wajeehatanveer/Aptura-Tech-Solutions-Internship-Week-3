@@ -1,6 +1,6 @@
 # Aptura-Tech-Solutions-Internship-Week-3
 
-# 📦Task 1-Object-Oriented Inventory System
+##📦Task 1-Object-Oriented Inventory System
 
 A Python-based Inventory Management System developed using **OOP, Streamlit, and JSON**. The application provides an interactive interface to manage products and inventory records.
 
