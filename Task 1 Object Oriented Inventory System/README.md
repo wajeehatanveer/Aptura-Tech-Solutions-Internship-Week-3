@@ -1,4 +1,4 @@
-**Week 3 – Task 1** 
+## Week 3 – Task 1
 
 # 📦 Object-Oriented Inventory System
 
@@ -78,5 +78,3 @@ The system successfully provides a complete inventory management workflow throug
 **Wajeeha Tanveer**
 Python Internship – Week 3
 Aptura Tech Solutions
-
-```
