@@ -33,9 +33,8 @@ pip install streamlit
 Run the application:
 
 streamlit run app.py
-
+```
 👩‍💻 Developed By
 
 Wajeeha Tanveer
-Python Internship – Week 3
-Aptura Tech Solutions
+Python Internship – Week 3 Aptura Tech Solutions
