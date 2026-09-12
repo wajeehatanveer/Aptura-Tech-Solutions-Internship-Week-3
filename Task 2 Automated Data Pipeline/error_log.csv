@@ -1,0 +1,5 @@
+row,error
+3,Missing age
+4,Negative salary
+5,Missing department
+9,Invalid age
