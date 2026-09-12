@@ -72,6 +72,5 @@ streamlit run app.py
 ```
 
 👩💻 Developed By
-
 ### Wajeeha Tanveer
 ### Aptura Tech Solutions | Week 3 – Python Internship
