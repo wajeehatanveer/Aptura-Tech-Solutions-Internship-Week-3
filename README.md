@@ -35,6 +35,7 @@ Run the application:
 streamlit run app.py
 ```
 
+
 ## Task 2-🔄 Automated Data Pipeline
 
 A Python-based **Automated Data Pipeline** developed as part of the **Aptura Tech Solutions Python Internship – Week 3**.
@@ -70,8 +71,7 @@ pip install streamlit pandas
 streamlit run app.py
 ```
 
-```
-👩‍💻 Developed By
+👩💻 Developed By
 
 ### Wajeeha Tanveer
 ### Aptura Tech Solutions | Week 3 – Python Internship
